@@ -56,6 +56,7 @@ const [task, settask] = useState([])
                       deletnote(idx)
                 }} className='w-full bg-amber-600 cursor-pointer active:scale-95 text-white  text-xs font-bold rounded py-2'> Delete</button>
                 </div>
+                
               }
             )  
           }
